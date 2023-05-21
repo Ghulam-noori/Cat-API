@@ -45,6 +45,7 @@ function getCats(){
         mainContainer.empty();
         inputValue.empty();
         
-   })
+})
+
 
 
